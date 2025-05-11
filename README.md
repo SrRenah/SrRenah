@@ -1,11 +1,11 @@
 ## 👋 Olá! Seja bem-vindo ao meu perfil! 🙉
 
-🔭 Atualmente estudando Engenharia de Software no UNICEUB.  
-📫 Contate-me pelo e-mail: [juanp.barroos@gmail.com](mailto:juanp.barroos@gmail.com)  
+🎓 Atualmente estudando **Engenharia de Software** no **UNICEUB**  
+📬 Contato: [juanp.barroos@gmail.com](mailto:juanp.barroos@gmail.com)
 
 ---
 
-### 📚 O que estou praticando agora:
+### 📚 Tecnologias que estou praticando no momento:
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -14,7 +14,7 @@
 
 ---
 
-### 🌐 Redes Sociais:
+### 🌐 Onde me encontrar:
 <div align="center">
   <a href="https://www.linkedin.com/in/juan-barros-a44317365/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -29,18 +29,18 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub:
+### 📊 Estatísticas do GitHub:
 <div align="center">
   <a href="https://github.com/SrRenah">
-    <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=SrRenah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrRenah&layout=compact&langs_count=16&theme=dark"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SrRenah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <br><br>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrRenah&layout=compact&langs_count=10&theme=dark"/>
   </a>
 </div>
 
 ---
 
-### 🐉 Só porque o Banguela é brabo 😄
-
+### 🐉 Porque o Banguela é brabo 😄
 <div align="center">
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="300px" alt="Banguela">
 </div>
